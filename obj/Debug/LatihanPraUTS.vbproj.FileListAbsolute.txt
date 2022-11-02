@@ -1,0 +1,12 @@
+D:\vb.net\LatihanPraUTS\bin\Debug\LatihanPraUTS.exe.config
+D:\vb.net\LatihanPraUTS\bin\Debug\LatihanPraUTS.exe
+D:\vb.net\LatihanPraUTS\bin\Debug\LatihanPraUTS.pdb
+D:\vb.net\LatihanPraUTS\bin\Debug\LatihanPraUTS.xml
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.vbproj.AssemblyReference.cache
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.Form1.resources
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.Resources.resources
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.vbproj.GenerateResource.cache
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.vbproj.CoreCompileInputs.cache
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.exe
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.xml
+D:\vb.net\LatihanPraUTS\obj\Debug\LatihanPraUTS.pdb
